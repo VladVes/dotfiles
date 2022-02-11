@@ -52,7 +52,6 @@ nnoremap <leader>u :UndotreeShow<CR>
 nnoremap <leader>pv :wincmd v<bar> :Ex <bar> :vertical resize 30<CR>
 nnoremap <leader>ps :Rg<SPACE>
 nnoremap <silent> <leader>+ :vertical resize +5<CR>
-nnoremap <silent> <leader>+ :vertical resize +5<CR>
 nnoremap <silent> <leader>- :vertical resize -5<CR>
 
 nnoremap <silent> <Leader>gd :YcmCompleter GoTo<CR>
